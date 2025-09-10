@@ -84,8 +84,7 @@ Area or column chart displaying total orders by state. *Wisconsin*, *Massachuset
 
 ## 📥 Dashboard Access
 
-[📄 View Dashboard PDF](https://github.com/sathishkumarj03/amazon-fresh-analysis/raw/main/AmazonFresh_Dashboard.pdf)  
-<!-- Replace with your GitHub username and file path -->
+[📄 View Dashboard PDF](https://github.com/sathishkumarj03/Amazon-Fresh-Analysis/blob/main/amazon%20fresh%20analysis%20pdf.pdf)  
 
 ---
 
